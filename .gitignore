@@ -1,0 +1,4 @@
+# Mac metadata files
+.DS_Store
+# IDE project files
+.idea
